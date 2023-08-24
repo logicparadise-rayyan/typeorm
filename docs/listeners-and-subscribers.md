@@ -203,7 +203,7 @@ export class Post {
 ## What is a Subscriber
 
 Marks a class as an event subscriber which can listen to specific entity events or any entity events.
-Events are firing using `QueryBuilder` and repository/manager methods.
+Events are fired using `QueryBuilder` and repository/manager methods.
 Example:
 
 ```typescript
